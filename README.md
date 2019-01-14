@@ -1,3 +1,3 @@
 # Humescorse WordPress Theme
 
-From Lynda.com
+Built from scratch using _s
